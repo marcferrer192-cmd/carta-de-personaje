@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div id="header">
+        <h1>Skate</h1>
+        <p>cosas que seguramente no sabias sobre el <br>skate</p>
+    </div>
+
+    <div id="banner">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h2>Empezemos!!</h2>
+        <p>El skate empezo en los finales de la década de 1940 y principios de los 1950<br><br>Surf de acera: El invento nació de los surfistas en California.Cuando el mar estaba sin olas, ellos querían seguir practicando.El diseño inicial: Desmontaron las ruedas de patines de hierro o arcilla y las clavaron a tablas de madera.Al principio lo llamaban "sidewalk surfing" (surf de acera).</p>
+    </div>
+
+    <div id="content">
+        <div class="post">
+            <p class="author">👤Marc Ferrer</p>
+            <p class="date">🕐 8 Septiembre 2026 · 🌍 Para todos los skater</p>
+            <p class="text"></p>
+            <div class="reactions">👍 Like  💬 Comment  ↪️ Share</div>
+        </div>
+
+        <div class="post">
+            <p class="author">👤 Otro Nombre</p>
+            <p class="date">🕐 2 April 2026 · 🔒 Friends only</p>
+            <p class="text">Hoy me comi un jabon creyendo que era un chocolate! 🎨</p>
+            <div class="reactions">👍 Like  💬 Comment  ↪️ Share</div>
+        </div>
+
+        <div class="post">
+            <p class="author">👤Marc ferrer Capllonch</p>
+            <p class="date">🕐 1 April 2026 · 🌍 Public</p>
+            <p class="text">Hay una cebra en mi habitación, no se como se metió</p>
+            <div class="reactions">👍 Like  💬 Comment  ↪️ Share</div>
+        </div>
+<a href="">Para saber mas!!!😉😉🫡🫡</a>
+</body>
+</html>
